@@ -51,10 +51,10 @@ Thank you for your support!
 
 I’m always open to discussions, collaborations, and new ideas. Feel free to reach out!
 
-🔗 **LeetCode**: [YukiKapan](https://leetcode.com/u/YukiKapan/)
-🔗 **Personal GitHub**: [Naoyuki-Christopher-H](https://github.com/Naoyuki-Christopher-H)
-🔗 **Academic GitHub**: [HChristopherNaoyuki](https://github.com/HChristopherNaoyuki)
-🔗 **Professional GitHub**: [NaoyukiChristopherYuki](https://github.com/NaoyukiChristopherYuki)
+- 🔗 **LeetCode**: [YukiKapan](https://leetcode.com/u/YukiKapan/)
+- 🔗 **Personal GitHub**: [Naoyuki-Christopher-H](https://github.com/Naoyuki-Christopher-H)
+- 🔗 **Academic GitHub**: [HChristopherNaoyuki](https://github.com/HChristopherNaoyuki)
+- 🔗 **Professional GitHub**: [NaoyukiChristopherYuki](https://github.com/NaoyukiChristopherYuki)
 
 Thank you for visiting my profile.
 

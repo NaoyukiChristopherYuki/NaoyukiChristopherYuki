@@ -1,16 +1,35 @@
-## Hi there 👋
+# Naoyuki "Yuki" Christopher H.
 
-<!--
-**NaoyukiChristopherYuki/NaoyukiChristopherYuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. Overview
 
-Here are some ideas to get you started:
+This profile belongs to a software developer. The developer follows a
+minimalist philosophy. Core topics include mathematics, computer science,
+software engineering, and software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No unsolicited collaboration is accepted.
+
+## 2. Professional Focus
+
+The developer approaches problems from the perspective of a software
+engineer, computer scientist, or mathematician. Technical accuracy and
+factual correctness are prioritized. Every project emphasizes clarity
+and correctness. Nothing unnecessary is included. Code follows the
+Allman style, with brackets placed on new lines. Comments are detailed
+and professional, suitable for an intermediate level audience.
+
+## 3. Social Networking Platforms
+
+- **LeetCode**: [YukiKapan](https://leetcode.com/u/YukiKapan/)
+- **Personal GitHub**: [Naoyuki-Christopher-H](https://github.com/Naoyuki-Christopher-H)
+- **Academic GitHub**: [HChristopherNaoyuki](https://github.com/HChristopherNaoyuki)
+- **Professional GitHub**: [NaoyukiChristopherYuki](https://github.com/NaoyukiChristopherYuki)
+
+## 4. Closing Statement
+
+Thanks for visiting. No collaboration requests will be accepted.
+
+---
+
+End of Document
+
+---

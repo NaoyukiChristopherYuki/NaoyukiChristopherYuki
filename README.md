@@ -5,16 +5,16 @@
 ```
 +---------------------------------------------------------------+
 |  HIGAKI, NAOYUKI CHRISTOPHER                                  |
-|  POSITION: Software Engineer / Software Developer             |
-|  STYLE:    Minimalist | Industrial | Simplistic               |
+|  POSITION: Software Engineer, Software Developer              |
+|  STYLE:    Minimalist, Industrial, Simplistic                 |
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
-|  Problem Solving       74                                     |
+|  Problem Solving       75                                     |
 |  Code Quality          84                                     |
-|  Technical Accuracy    71                                     |
+|  Technical Accuracy    74                                     |
 |  Clarity & Simplicity  77                                     |
-|  Mathematics           72                                     |
+|  Mathematics           78                                     |
 |  Software Engineering  77                                     |
 +---------------------------------------------------------------+
 |  STRENGTHS                                                    |
@@ -33,7 +33,7 @@
 +---------------------------------------------------------------+
 |  FOCUS                                                        |
 |  - Software Engineering                                       |
-|  - Software Developer                                         |
+|  - Software Development                                       |
 +---------------------------------------------------------------+
 ```
 

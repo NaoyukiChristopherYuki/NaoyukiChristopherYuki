@@ -1,8 +1,8 @@
 ```
 +---------------------------------------------------------------+
 |  HIGAKI, NAOYUKI CHRISTOPHER                                  |
-|  POSITION: Software Engineer, Software Developer              |
-|  STYLE:    Minimalist, Industrial                             |
+|  POSITION: Software Engineer                                  |
+|  STYLE:    Minimalist, Industrial, Simplistic                 |
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
@@ -20,7 +20,7 @@
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
 |  - Main: Windows                                              |
-|  - Secondary: macOS, Linux                                    |
+|  - Secondary: Linux                                           |
 +---------------------------------------------------------------+
 |  PROGRAMMING LANGUAGES                                        |
 |  - Java                                                       |
@@ -67,9 +67,9 @@
 |  - English                                                    |
 +---------------------------------------------------------------+
 |  SOCIAL & PROFESSIONAL PROFILES                               |
-|  - LeetCode:     YukiKapan                                    |
-|  - Personal:     Naoyuki-Christopher-H                        |
-|  - Academic:     HChristopherNaoyuki                          |
-|  - Professional: NaoyukiChristopherYuki                       |
+|  - LeetCode:            YukiKapan                             |
+|  - Personal GitHub:     Naoyuki-Christopher-H                 |
+|  - Academic GitHub:     HChristopherNaoyuki                   |
+|  - Professional Github: NaoyukiChristopherYuki                |
 +---------------------------------------------------------------+
 ```

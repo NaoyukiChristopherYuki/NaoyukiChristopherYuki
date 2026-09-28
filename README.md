@@ -6,12 +6,12 @@
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
-|  Problem Solving       79                                     |
-|  Code Quality          84                                     |
-|  Technical Accuracy    79                                     |
-|  Clarity & Simplicity  79                                     |
-|  Mathematics           79                                     |
-|  Computer Science      79                                     |
+|  Problem Solving       82                                     |
+|  Code Quality          94                                     |
+|  Technical Accuracy    80                                     |
+|  Clarity & Simplicity  82                                     |
+|  Mathematics           96                                     |
+|  Computer Science      87                                     |
 +---------------------------------------------------------------+
 |  STRENGTHS                                                    |
 |  - Minimalist                                                 |

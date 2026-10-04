@@ -19,8 +19,8 @@
 |  - Simplistic                                                 |
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
-|  - Main: Windows                                              |
-|  - Secondary: Linux                                           |
+|  - Main:      Linux                                           |
+|  - Secondary: Windows                                         |
 +---------------------------------------------------------------+
 |  PROGRAMMING LANGUAGES                                        |
 |  - Java                                                       |

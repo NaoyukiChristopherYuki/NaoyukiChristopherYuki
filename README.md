@@ -2,24 +2,18 @@
 +---------------------------------------------------------------+
 |  HIGAKI, NAOYUKI CHRISTOPHER                                  |
 |  POSITION: Software Engineer                                  |
-|  STYLE:    Minimalist, Industrial, Simplistic                 |
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
-|  Problem Solving       82                                     |
-|  Code Quality          94                                     |
-|  Technical Accuracy    80                                     |
-|  Clarity & Simplicity  82                                     |
-|  Mathematics           96                                     |
-|  Computer Science      87                                     |
-+---------------------------------------------------------------+
-|  STRENGTHS                                                    |
-|  - Minimalist                                                 |
-|  - Industrial                                                 |
-|  - Simplistic                                                 |
+|  Problem Solving       74                                     |
+|  Code Quality          74                                     |
+|  Technical Accuracy    74                                     |
+|  Clarity & Simplicity  74                                     |
+|  Mathematics           74                                     |
+|  Computer Science      74                                     |
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
-|  - Main:      Linux                                           |
+|  - Primary:   Linux                                           |
 |  - Secondary: Windows                                         |
 +---------------------------------------------------------------+
 |  PROGRAMMING LANGUAGES                                        |

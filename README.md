@@ -1,6 +1,6 @@
 ```
 +---------------------------------------------------------------+
-|  HIGAKI, NAOYUKI "YUKI"                                       |
+|  Naoyuki "Yuki" Christopher Higaki                            |
 |  POSITION: Software Engineer                                  |
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
